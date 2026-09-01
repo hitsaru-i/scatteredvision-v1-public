@@ -1,0 +1,12 @@
+# Face recognition stack
+face_recognition==1.3.0
+
+# dlib must remain <20 for stability
+dlib>=19.24,<20.0
+
+# Numeric stack (must match dlib expectations)
+numpy>=1.26,<2.0
+
+# Image processing backend
+scikit-image>=0.22,<0.24
+

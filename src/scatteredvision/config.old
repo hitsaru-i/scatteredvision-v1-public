@@ -1,0 +1,6 @@
+{
+    "default_root_dir": "/home/USER/Pictures/faceimages/",
+    "default_db_file": "/home/USER/scatteredvision_data/hashdata.sqlite",
+    "default_export_dir": "/home/USER/scattered-vision-data/output",
+    "default_tolerance": 0.5
+}

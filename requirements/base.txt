@@ -1,0 +1,13 @@
+# Core tooling
+setuptools>=68,<71
+wheel>=0.41,<0.44
+
+# Image handling (non-face)
+Pillow>=10.0,<11.0
+
+# Data & numerics (safe subset)
+numpy>=1.26,<2.0
+
+# Database
+# (sqlite3 is stdlib; this is for helpers if needed later)
+
