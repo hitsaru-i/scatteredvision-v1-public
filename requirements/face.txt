@@ -8,5 +8,5 @@ dlib>=19.24,<20.0
 numpy>=1.26,<2.0
 
 # Image processing backend
-scikit-image>=0.22,<0.24
+scikit-image>=0.26,<0.27
 
